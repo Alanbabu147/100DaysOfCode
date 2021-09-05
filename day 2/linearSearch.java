@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class binarySearch
+class linearSearch
 {
 	public static void main(String[] args)
 	{
